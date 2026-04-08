@@ -1,3 +1,6 @@
+#announce: Мяу
+#profile-title: SilentMeow
+#profile-update-interval: 1
 vless://3a9a9cb3-3767-4d40-b271-0c0c90c0a26a@portal.silentmeow.ru:443?type=tcp&security=reality&pbk=9Jo-ZHgbSDujaYMkXFAq8GLkZfO9D0Zu1sNOpTP39zk&fp=chrome&sni=portal.silentmeow.ru&sid=&spx=%2F&flow=xtls-rprx-vision#🇱🇻SilentMeowLatvia
 vless://631d1be3-a36c-41c8-843b-a8a05d96b467@silentmeow.space:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=silentmeow.space&fp=chrome&security=reality&pbk=m0jn_33o2321fAD_JnppptYGp96LJvghc2322jp0UTk&sid=#🇵🇱SilentmeowPoland№1
 vless://0f93daee-29b4-47d0-9fc6-ef75e2ecadd6@midnight.silentmeow.ru:443?type=tcp&security=reality&pbk=6O_X-mfiolArTssEqVUX27JDJ_IDvkMsHM-ISPMIiHQ&fp=chrome&sni=midnight.silentmeow.ru&sid=&spx=%2F&flow=xtls-rprx-vision#🇵🇱SilentMeowPoland№2
